@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
