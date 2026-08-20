@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
