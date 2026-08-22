@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
