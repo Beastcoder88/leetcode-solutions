@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
