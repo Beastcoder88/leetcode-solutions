@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0414-third-maximum-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
