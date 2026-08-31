@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0821-shortest-distance-to-a-character](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
