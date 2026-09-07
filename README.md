@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Primality Test
 |  |
 | ------- |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
