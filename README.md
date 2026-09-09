@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3731-find-missing-elements](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3731-find-missing-elements](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Primality Test
 |  |
