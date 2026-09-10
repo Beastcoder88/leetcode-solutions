@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3731-find-missing-elements](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
 | ------- |
