@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2652-sum-multiples](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
