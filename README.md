@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0394-decode-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
