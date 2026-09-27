@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3731-find-missing-elements](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Beastcoder88/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Beastcoder88/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Beastcoder88/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
